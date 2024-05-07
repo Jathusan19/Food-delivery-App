@@ -1,0 +1,22 @@
+/* Login.css */
+
+.card {
+  border: 2px solid #007bff; /* Change border style and color */
+  border-radius: 10px; /* Add border radius for rounded corners */
+  box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1); /* Add shadow effect */
+  padding: 20px; /* Add padding for spacing */
+}
+
+.btn-primary {
+  background-color: #007bff; /* Keep background color blue */
+  border-color: #007bff; /* Match border color with background color */
+  color: #fff; /* Set text color to white */
+  font-weight: bold; /* Add bold font weight */
+  padding: 10px 20px; /* Add padding to the button */
+  transition: background-color 0.3s ease-in-out; /* Add smooth transition effect */
+}
+
+.btn-primary:hover {
+  background-color: #0056b3; /* Change background color on hover */
+  border-color: #0056b3; /* Change border color on hover */
+}
